@@ -1,2 +1,2 @@
-# Udemy-Clone-Main
-Cloning the Udemy main page
+# Udemy-Clone
+I Have created a front end design of Udemy website
